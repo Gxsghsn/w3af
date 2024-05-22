@@ -14,7 +14,7 @@ nose-cov==1.6
 coveralls==0.2
 
 # Requirements to test the REST API
-requests>=2.7.0
+requests>=2.32.0
 
 # Other
 mock==1.0.1
