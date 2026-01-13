@@ -30,3 +30,4 @@ docker-tag-naming>=1.0.3
 
 # Most test servers are run inside docker containers
 docker-compose==1.2.0
+urllib3>=2.6.3 # not directly required, pinned by Snyk to avoid a vulnerability
